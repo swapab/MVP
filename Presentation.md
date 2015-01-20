@@ -19,4 +19,5 @@
   * A web solution.
   * Chrome extension
   * Chrome App
-* Why ?
+* ~~Why~~  Why this ?
+  * Everything in one place means :heart:
