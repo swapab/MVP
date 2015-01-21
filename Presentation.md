@@ -37,9 +37,11 @@
  This would in turn increase productivity.
 
 ======================================
+======================================
 
-	- Seize - Annotate - Share
-  	- Current Wokflow : You capture a screen -> You may opt to save or share -> They(the system) provide you a URL -> You copy that URL and paste it somewhere or share them over email or whatever medium suites you the best -> Your friends somehow get the URL they see it and so on...
+- Seize - Annotate - Share
+- Current Wokflow : You capture a screen -> You may opt to save or share -> They(the system) provide you a URL -> You copy that URL and paste it somewhere or share them over email or whatever medium suites you the best -> Your friends somehow get the URL they see it and so on...
+
 * Offered Solution
   - Try to bridge the gap between capturing the screen and sharing it with colleagues. And have everywhere access to it.
 * Use cases
